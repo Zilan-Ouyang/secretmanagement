@@ -1,0 +1,6 @@
+require('dotenv').config()
+console.log(process.env.MNEMONIC)
+console.log(process.env.PRIVATE_KEY)
+console.log(process.env.SECRET_ONE)
+console.log(process.env.SECRET_TWO)
+console.log(process.env.SECRET_THREE)
